@@ -1,0 +1,61 @@
+tarea LAB UCSP Ciencia de la Computación versíon 1.0 18/05/2018
+
+__________________________________
+
+Contentido
+
+pipe(named)
+
+__________________________________
+
+Compilacion bajo ubuntu
+home/user:~$ make 
+
+
+
+no es posible enviar mensajes por medio de pipe sin que se pierda 20-50%
+para comprobarlo ejecutar 
+"pw"
+despues
+"pr"
+se ejecutan 8 threads por medio de pipe write y
+se ejecutan 10 threads en pipe read pero solo se recepcionan 2-6 mensajes usando semaforos.
+
+
+__________________________________
+
+Credits
+
+Abel Hancco Soncco
+Email abel.hancco@ucsp.edu.pe
+
+
+
+Copyright © 2018 Free Software
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Using this scritp without authorization could affect your health, use it at your own risk
